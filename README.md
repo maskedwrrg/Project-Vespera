@@ -1,7 +1,7 @@
 # Project-Vespera
 
 ## Table of Contents
-* [Main](#Final-Goodbye)
+* [Final Goodbye](./Final%20Goodbye/)
 * [Final Goodbye](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
